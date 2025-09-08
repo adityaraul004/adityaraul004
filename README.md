@@ -86,9 +86,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rauladitya004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rauladitya004" height="30" width="40" /></a>
 <a href="https://github.com/adityaraul004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="adityaraul004" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aditya_r_04" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<a href="https://www.instagram.com/aditya_r_04" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="40" /></a>
 
 </p>
 
@@ -107,6 +105,6 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraul004&show_icons=true&locale=en&layout=compact" alt="adityaraul004" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraul004&langs_count=8&layout=compact&theme=radical" alt="Top Languages"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraul004&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub stats"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraul004&show_icons=true&locale=en" alt="adityaraul004" /></p>
