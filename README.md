@@ -23,28 +23,48 @@
 
 ---
 
-<h3 align="left">Projects</h3>
-
-- 🧠 **AI-Powered Mental Health Chatbot** – NLP-based chatbot with **85% accuracy**, real-time crisis alerts (Tech: TensorFlow, PyTorch, Flask, GPT)  
-- 🎮 **Reinforcement Learning Snake Game** – DQN with experience replay & custom rewards (Tech: Python, PyTorch, NumPy, Pygame)  
-- 🌐 **Personal Portfolio Website** – Dark-themed portfolio with smooth animations (Tech: Three.js, Tailwind, GSAP)  
-
----
-
 <h3 align="left">Education</h3>
 
 - **B.E. in Computer Science Engineering** (2022 – 2026) – *CMR Institute of Technology, Bangalore* – **CGPA: 8.02**  
 - **Class XII (Science)** – *Army Public School, Bangalore* – **87.8%**  
 
 ---
+<h3 align="left">⚡ Skills</h3>
 
-<h3 align="left">Skills</h3>
+<p align="left">
 
-- **Languages:** Java, Python, C  
-- **Frameworks & Libraries:** React, Node.js, Flutter, PyTorch, TensorFlow  
-- **Databases & Cloud:** MySQL, SQL Server, MongoDB, AWS, Azure  
-- **Web Technologies:** HTML, CSS, JavaScript  
-- **Tools:** Power BI, Git, MS Excel, MS PowerPoint  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+  <!-- Web Technologies -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+
+</p>
+
 
 ---
 
@@ -66,6 +86,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/rauladitya004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rauladitya004" height="30" width="40" /></a>
 <a href="https://github.com/adityaraul004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="adityaraul004" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aditya_r_04" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </p>
 
 ---
