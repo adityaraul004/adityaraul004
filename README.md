@@ -105,11 +105,11 @@
 
 ---
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraul004&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="adityaraul004" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraul004&show_icons=true&locale=en&layout=compact&hide=php" alt="adityaraul004" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraul004&show_icons=true&locale=en&cache_seconds=1800" alt="adityaraul004" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraul004&show_icons=true&locale=en" alt="adityaraul004" />
 </p>
 
 
