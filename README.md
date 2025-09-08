@@ -104,7 +104,12 @@
 </p>
 
 ---
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraul004&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="adityaraul004" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraul004&langs_count=8&layout=compact&theme=radical" alt="Top Languages"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraul004&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub stats"/></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraul004&show_icons=true&locale=en&cache_seconds=1800" alt="adityaraul004" />
+</p>
+
 
