@@ -103,7 +103,12 @@
 </p>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraul004&show_icons=true&locale=en&layout=compact&exclude_repo=KarasunoHackathon alt="adityaraul004" /></p>
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraul004&show_icons=true&locale=en&layout=compact&exclude_repo=KarasunoHackathon" 
+       alt="adityaraul004" />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraul004&show_icons=true&locale=en" alt="adityaraul004" /></p>
 
