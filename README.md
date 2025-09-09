@@ -103,7 +103,7 @@
 </p>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rauladitya004&show_icons=true&locale=en&layout=compact" alt="rauladitya004" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaraul004&show_icons=true&locale=en&layout=compact" alt="adityaraul004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rauladitya004&show_icons=true&locale=en" alt="rauladitya004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraul004&show_icons=true&locale=en" alt="adityaraul004" /></p>
 
